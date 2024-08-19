@@ -1,0 +1,131 @@
+Maulding	MLD205D	DynamicGender	4 person	2024 Fall	3/14/2024 2:40 PM
+Nelson-Shell (ULC)	NSL226D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street North	CSN106D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Zbar (SSA)	ZBR221A	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Zbar (SSA)	ZBR313A	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street North	CSN208D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+North Avenue North	NAN0402C	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street South	CSS303D	Neutral	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC203D	Neutral	4 person	2024 Fall	3/14/2024 2:40 PM
+Zbar (SSA)	ZBR221D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Zbar (SSA)	ZBR115D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC305D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Nelson-Shell (ULC)	NSL214D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Nelson-Shell (ULC)	NSL311D	Neutral	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC319A	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street North	CSN504D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC215C	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Zbar (SSA)	ZBR109B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street North	CSN202B	Neutral	4 person	2024 Fall	3/14/2024 2:40 PM
+Nelson-Shell (ULC)	NSL126C	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Maulding	MLD205A	DynamicGender	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC515A	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Nelson-Shell (ULC)	NSL403C	Neutral	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC312C	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC618B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street South	CSS001A	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Zbar (SSA)	ZBR121B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC616A	Neutral	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC310A	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street North	CSN401B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC305A	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Maulding	MLD311B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC417C	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Zbar (SSA)	ZBR402D	Neutral	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC123D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Maulding	MLD203B	DynamicGender	4 person	2024 Fall	3/14/2024 2:40 PM
+North Avenue South	NAS0309D	Neutral	4 person	2024 Fall	3/14/2024 2:40 PM
+Nelson-Shell (ULC)	NSL326D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC509D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Nelson-Shell (ULC)	NSL215C	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street South	CSS112D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Maulding	MLD205B	DynamicGender	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC515B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Zbar (SSA)	ZBR103A	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street North	CSN404B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC616B	Neutral	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC617A	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC608B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street South	CSS310B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC305B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Zbar (SSA)	ZBR413D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Nelson-Shell (ULC)	NSL403D	Neutral	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC203B	DynamicGender	4 person	2024 Fall	3/14/2024 2:40 PM
+Maulding	MLD203C	DynamicGender	4 person	2024 Fall	3/14/2024 2:40 PM
+Nelson-Shell (ULC)	NSL214B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC215A	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Zbar (SSA)	ZBR420D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC606D	DynamicGender	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC509B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+North Avenue North	NAN0216B	Neutral	4 person	2024 Fall	3/14/2024 2:40 PM
+Zbar (SSA)	ZBR410D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Maulding	MLD220D	Neutral	4 person	2024 Fall	3/14/2024 2:40 PM
+Nelson-Shell (ULC)	NSL413A	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC409C	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC412C	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street North	CSN308D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC612A	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC606A	DynamicGender	4 person	2024 Fall	3/14/2024 2:40 PM
+Nelson-Shell (ULC)	NSL324D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC215D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street South	CSS208D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC128D	DynamicGender	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street North	CSN106B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC618C	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Nelson-Shell (ULC)	NSL225D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Crecine	CRE312B	Neutral	4 person	2024 Fall	3/14/2024 2:40 PM
+Crecine	CRE405D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street North	CSN206B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC417D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street North	CSN107D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC123C	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Zbar (SSA)	ZBR103B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC606B	DynamicGender	4 person	2024 Fall	3/14/2024 2:40 PM
+Maulding	MLD203A	DynamicGender	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street South	CSS008C	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Crecine	CRE107B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Zbar (SSA)	ZBR110B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Nelson-Shell (ULC)	NSL219B	Neutral	4 person	2024 Fall	3/14/2024 2:40 PM
+Zbar (SSA)	ZBR115C	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Maulding	MLD220B	Neutral	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC617D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Zbar (SSA)	ZBR410B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street North	CSN404C	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC412A	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC319B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+North Avenue South	NAS0111C	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street North	CSN207D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Zbar (SSA)	ZBR410C	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Zbar (SSA)	ZBR121A	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC417B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC409D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street South	CSS304B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC312B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street South	CSS004C	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC412B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC612B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+North Avenue North	NAN0202B	Neutral	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC509C	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Nelson-Shell (ULC)	NSL215B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Crecine	CRE408A	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street South	CSS112C	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Maulding	MLD205C	DynamicGender	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC515C	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC618D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street North	CSN208C	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Zbar (SSA)	ZBR121D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street South	CSS209D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC617B	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC608C	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street South	CSS010B	Neutral	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street North	CSN401D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC203C	DynamicGender	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street North	CSN205A	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Zbar (SSA)	ZBR210D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street North	CSN504C	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Center Street South	CSS008D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Maulding	MLD203D	DynamicGender	4 person	2024 Fall	3/14/2024 2:40 PM
+Nelson-Shell (ULC)	NSL311C	Neutral	4 person	2024 Fall	3/14/2024 2:40 PM
+Nelson-Shell (ULC)	NSL214C	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Crecine	CRE505D	Male	4 person	2024 Fall	3/14/2024 2:40 PM
+Graduate Living Center	GLC606C	DynamicGender	4 person	2024 Fall	3/14/2024 2:40 PM
